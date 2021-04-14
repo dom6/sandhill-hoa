@@ -1,6 +1,6 @@
-Meeting Notes
+#Meeting Notes
 
-# April 13, 2021
+## April 13, 2021
 
 Attendees: Kirk, Jess, Alex, Amanda, Joleah, Bob
 
@@ -16,7 +16,7 @@ Attendees: Kirk, Jess, Alex, Amanda, Joleah, Bob
   * Follow-ups - Lindell has been in touch with Joe.  Damage was caused
     by ImOn and others. Southgate will put sod down.
 
-## Financial Items
+### Financial Items
 
 * Kirk suggests converting to Hills Bank from Greenstate Credit Union.
   There will be additional income from that.  Hill Bank will not charge
@@ -29,7 +29,7 @@ a fee.  Greenstate has not issued a card at this time.
   submitted
   * The taxes are only a single page.
 
-## Board Policies and Procedures
+### Board Policies and Procedures
 
 * Kirk is trying to figure out if there is anything needed for financial
   matters.
@@ -54,7 +54,7 @@ isn't quroum we can continue on previous budgets.
   * Kirk has the specific piece in the meeting minutes.
   * Something more defined would be good for the homeowners.
 
-## Bylaws and Special Projects
+### Bylaws and Special Projects
 
 * Discuss survey for bylaw compliance and special projects
   * Jess will put together an build a survey
@@ -80,7 +80,7 @@ Leins are not allowed for fines.
 * Incentivies attendance and survey. 10 minutes survey equates to $20
   off. Kirk it could be $10 or $20.
 
-## Block Party
+### Block Party
 
 * Block party - space behind the mailboxes.  Island in Keel Boat Loop
   * Jess - maybe we could get the Kona Ice Truck
@@ -91,7 +91,7 @@ Leins are not allowed for fines.
   * Jess - maybe the first week in June to see what things are looking
     like.
 
-## Easement
+### Easement
 
 * Kirk - I don't think it's anything that we have any power of.
 * Kirk wanted to know who would be responsible for.
@@ -108,5 +108,5 @@ the public right of way.
 take on. Joe will submit an application soon.  At which time Kirk could
 forward that to the board.
 
-## Final Items
+### Final Items
 * Amanda - let's get Kim a card as a retiring board member.
