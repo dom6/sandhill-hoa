@@ -410,7 +410,7 @@ now, we're just looking at the 900 acres.  We'd like to apply this code
 to other greenfield areas.  Some are still in unincorporated Johnson
 County that will eventually be annexed.
 Billie: We'll have 2 standards then.
-Anne: We'll actually have 4.
+Anne: We actually have 4.
 
 Mark: Form vs Use?  I still need to wrap my head around it.  Please
 present something that helps us understand it. If I build a house, I
