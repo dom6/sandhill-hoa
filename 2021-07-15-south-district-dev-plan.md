@@ -7,7 +7,7 @@ Tonight: Go through the 5  remaining chapters
 3. Frontage Types
 4. Thoroughfare Types
 5. Affordable Housing Incentives
-6. Toher 
+6. Other 
 7. Title 15
 
 ## Draft Code
@@ -415,3 +415,11 @@ Anne: We'll actually have 4.
 Mark: Form vs Use?  I still need to wrap my head around it.  Please
 present something that helps us understand it. If I build a house, I
 could put a business in it as I understand it.
+
+Anne: Send an email if you have specific questions. Mike: I met with
+Opticos, this has come a long way and I'm impressed with what you've
+done.
+Susan: The land that has been cleared on the South side by Keokuk,
+what's planned. 
+Mike: Kwik Star is going in there.  I'm happy about that they have some
+great baked goods.  They plan to be done by December.
