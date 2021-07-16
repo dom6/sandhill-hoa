@@ -43,23 +43,24 @@ Organized by Transect. Briefly went over T3 and T4 with very little info
 * Diversity
   * At least 2 different types per block
 
-Carriage House
+[Carriage House](./assets/Slides-P&Z-7-15-2021/carriage-house.png)
+
   * Allowed in all zones. Only 2 stories with a max width of 32 feet
 
-House Large and House Small
+[House Large and House Small](./assets/Slides-P&Z-7-15-2021/house-large-small.png)
 
   * Single family detached use
   * Large T3 neighborhood edge. 2.5 stories tall.  Max width 95'
   * House Small - T3NG. 2.5 stories. Max width 75'
 
-Duplex Side-by-side and Stacked
+[Duplex Side-by-side and Stacked](./assets/Slides-P&Z-7-15-2021/duplex-side-by-side.png)
 
   * side-by-side - the normal kind.  2 units within a design site.
     About the same size as a house large / single family home.  Narrower
 than a house large.
   * Denser type of duplex.
 
-Cottage Court
+[Cottage Court](./assets/Slides-P&Z-7-15-2021/cottage-court.png)
 
   * Not currently allowed by our code.  A courtyard with buildings
     around the outsize of it. No private individual rear yards.
@@ -67,27 +68,30 @@ Cottage Court
   * T3NE, T3NG, T4NS
   * Main entrance is on the court
 
-Multiplex Small and Large
+[Multiplex Small and
+Large](./assets/Slides-P&Z-7-15-2021/multiplex-small-large.png)
 
   * Small - T3NG, T4NS - approx size of large house
     * 2.5 stories about 90' wide.
   * Large - T4NM
     * 3.5 stories max with 100' wide
 
-Townhouse
+[Townhouse](./assets/Slides-P&Z-7-15-2021/townhouse.png)
 
   * Variable based on zone.  Height and width are variable with more
     units, heights, and widths.  See picture.
   * T3ND - 2-3 Units, 1 site, 2.5 stories, 90'
   * T4MS - 4-8 units, 3 stacked, 3.5 stories, 200'
 
-Courtyard Building Small and Large
+[Courtyard Building Small and
+Large](./assets/Slides-P&Z-7-15-2021/courtyard-building-small-large.png)
 
   * Central court that replaces rear yard open space
   * small - 10-16 dwellings - T4NS and T4NM - 2.5 or 3.5 respectively. 100'
   * large - T4MS - 18-24 dwellings - 3.5 stories, 100'
 
-Main Street Building
+[Main Street
+Building](./assets/Slides-P&Z-7-15-2021/main-street-building.png)
 
   * Unrestricted dwelling units.  Will likely have commercial. T4MS.
     Vertical mix of uses.  Ground commercial, residential above.
@@ -100,7 +104,7 @@ Transects
 * T4NM - 3.5 stories
 * T4MS - corner of McCollister and Sycamore
 
-Differences
+[Differences](./assets/Slides-P&Z-7-15-2021/differences-building-type-standards.png)
 
   * Building type from use
   * Simlar to Riverfont Crossings
@@ -109,31 +113,34 @@ Differences
   * Current regulates by density of block sizes. New would be regulated
     by number or units.
   * Admnistrative change is a possibility.  A design type could switch
-    out a single family for another qualifying design type.
+    out a single family for another qualifying design typek.
+
+
+## Architectural Elements
 
 Overview
 
   * Windows / Doors are called glazing. 30% minimum glazing.
 
-## Architectural Elements
-
-Tripartite Facade Articulation
+[Tripartite Facade
+Articulation](./assets/Slides-P&Z-7-15-2021/tripartite-facade-articulation.png)
 
   * Ground - must be have awnings / canopies, etc.
   * Middle - only required if 3 stories
 
-Architectural Recessions
+[Architectural
+Recessions](./assets/Slides-P&Z-7-15-2021/architectural-recessions.png)
 
   * Applies to buildings of at least 2 stories
   * If it's a multifamily that is the size of a single family / duplex it does
     not have to apply.
 
-Corner Element
+[Corner Element](./assets/Slides-P&Z-7-15-2021/corner-element.png)
 
   * Voluntary architectural Element. For a main street building
   * Can exceed max height limit
 
-Rooftop Room
+[Rooftop Room](./assets/Slides-P&Z-7-15-2021/rooftop-room.png)
 
   * Voluntary - houses, duplexes, small courtyard buildings
 
